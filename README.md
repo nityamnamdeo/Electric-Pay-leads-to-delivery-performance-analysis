@@ -9,6 +9,7 @@ This repository contains exported sheets and analysis from the Excel workbook EP
 - DashBoard.csv — summary KPIs and chart-source data.
 - sheets_report.csv — sheet-level metadata (rows/cols/pivot/chart counts).
 - excel_summary.json — programmatic summary for reproducibility.
+- Note: all the CSV files and reports are given in the one Excel file provided in the above folder
 
 ## Overview
 This workbook demonstrates the end-to-end process of turning raw transactional data into business insights using Excel:
